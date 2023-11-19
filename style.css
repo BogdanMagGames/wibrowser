@@ -1,0 +1,13 @@
+form {
+	font-size: 50px;
+	margin-top: 300px;
+	text-align: center;
+}
+input {
+	text-align: center;
+	width: 300px;
+	height: 40px;
+}
+body {
+	background-color: lightgray;
+}
